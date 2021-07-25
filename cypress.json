@@ -1,3 +1,6 @@
 {
-  "baseUrl": "http://localhost:3000"
+  "baseUrl": "http://localhost:3000",
+  "env": {
+    "apiKey": "rff2dlSJdzoL0ge0KerbAiHCeb1X6u70"
+  }
 }
